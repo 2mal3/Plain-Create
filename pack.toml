@@ -1,0 +1,13 @@
+name = "Plain Create"
+author = "2mal3"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4aeaecf53be22d62463f2aa7f141fa232c91f4dc852a6c48de1519cac0feb730"
+
+[versions]
+forge = "47.3.29"
+minecraft = "1.20.1"

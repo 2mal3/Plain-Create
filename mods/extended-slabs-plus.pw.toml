@@ -1,0 +1,13 @@
+name = "Extended Slabs +"
+filename = "extendedslabs-1.20.1-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/otEsKKsE/versions/RleEmT4O/extendedslabs-1.20.1-3.0.1.jar"
+hash-format = "sha512"
+hash = "1b0cb9491c249cf33bec433966c26923f5f1b60c7e4916adc222baa82d1384464d955b045a6e9a1c80b41d17c460e8a52714015b52fd9596b1ad6f0589ac1d23"
+
+[update]
+[update.modrinth]
+mod-id = "otEsKKsE"
+version = "RleEmT4O"
