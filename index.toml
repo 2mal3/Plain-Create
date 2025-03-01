@@ -9,6 +9,10 @@ file = "config/DistantHorizons.toml"
 hash = "e9b66249664b001ea714dfbf945e1b8c05cb303980121fa54cab21d6fbb10bd7"
 
 [[files]]
+file = "config/ambientsounds-client.json"
+hash = "0ade2a16aa7868294e88ffee0821846d6eaaed2e6002501026dced5059007b44"
+
+[[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "0cc0041037aefc5638f24f830765f658046d729be3e9056019223d389547ab29"
 
