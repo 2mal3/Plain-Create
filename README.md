@@ -1,5 +1,7 @@
 # Plain Create
 
+![release](https://img.shields.io/github/v/release/2mal3/Plain-Create?style=flat-square)
+
 A small Create modpack, focusing on just the Create stuff without the bells and whistles, while doing its best for maintainability and backwards combatability.
 
 ## Inclued Mods
