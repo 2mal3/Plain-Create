@@ -1,13 +1,13 @@
 name = "Colossal Chests"
-filename = "ColossalChests-1.20.1-1.8.4.jar"
+filename = "ColossalChests-1.20.1-1.8.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/V8HM9qmm/versions/kyhkRfb1/ColossalChests-1.20.1-1.8.4.jar"
+url = "https://cdn.modrinth.com/data/V8HM9qmm/versions/lzlkyzvl/ColossalChests-1.20.1-1.8.6.jar"
 hash-format = "sha512"
-hash = "31fd205d9b91bb7574509c1a932c333ca1b8d8ad9b685d3937b22db49ee95b5568809ec662ae62ce4faa2f2d35aaf6da9c3cef41c075f722a264adb8b907b1e3"
+hash = "6554a2915340fe7dbd08d46624a39c39b9b83b6921e112b3d519ecf3d75177d0a50f18cda39ea80750724ff31c4bab71fece1742a8b6da57c10b44a5b1c6a7e2"
 
 [update]
 [update.modrinth]
 mod-id = "V8HM9qmm"
-version = "kyhkRfb1"
+version = "lzlkyzvl"

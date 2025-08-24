@@ -1,13 +1,13 @@
 name = "Plain Create"
 author = "2mal3"
-version = "0.1.0"
+version = "0.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3e855772c7d66b5d358cc87f29447d2a18b006571cb78ab3a6764db22153bc0a"
+hash = "ead0f8c24707617ce914dac2e20c406e1946b93c74edbd2350913ccfa0f7bca6"
 
 [versions]
-forge = "47.3.29"
 minecraft = "1.20.1"
+neoforge = "47.1.106"

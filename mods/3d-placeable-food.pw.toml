@@ -1,13 +1,13 @@
 name = "3D Placeable Food (New Update, Easter touch ups)"
-filename = "3dplaceablefood-UPDATE -1.9.0 1.20.1 forge.jar"
+filename = "3d_placeable_food-2.6.0-forge-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/MFgnFY8Z/versions/elXQWymb/3dplaceablefood-UPDATE%20-1.9.0%201.20.1%20forge.jar"
+url = "https://cdn.modrinth.com/data/MFgnFY8Z/versions/SJoEOOIv/3d_placeable_food-2.6.0-forge-1.20.1.jar"
 hash-format = "sha512"
-hash = "81356dc7762c0102b1043218b1bf142acb97a571c4df0619f07c48288fed24cb925002ba5d32b2fc5916106cd8842a7445722baab84361114839f8f2f616d5dc"
+hash = "eb7b7c66baee1f82794c003d383036713c26b21028063f0a253d423ebb5f1d755633e390e88a12f4596674608551e8a665ca16700d6730c22c7d5e0aa8441847"
 
 [update]
 [update.modrinth]
 mod-id = "MFgnFY8Z"
-version = "elXQWymb"
+version = "SJoEOOIv"
